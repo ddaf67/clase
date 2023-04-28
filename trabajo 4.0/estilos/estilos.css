@@ -1,0 +1,31 @@
+*{
+    text-decoration: underline;
+}
+/*selector de elementos*/
+nav{
+    border: 10px dotted purple;
+    background: steelblue;
+}
+
+h2{
+    color: pink;
+}
+
+/*selector de clases*/
+.titulo{
+    text-align: center;
+    color: brown;
+}  
+
+.clasex{
+    border: 10px solid orange; 
+} 
+
+/* selector de id */
+#idsec{
+   color: blue;
+} 
+
+#laultime{
+   border: 20px dotted; color: black;
+} 
